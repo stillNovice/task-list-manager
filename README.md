@@ -46,7 +46,7 @@ $ npm start
 <img src="./screenshots/ls.PNG" alt="ls command" width="100%" height="70%"/>
 
 ## del command
-<img src="./screenshots/del.PNG" alt="del command" width="100%" height="70%"/>
+<img src="./screenshots/del.png" alt="del command" width="100%" height="70%"/>
 
 ## flushall command
 <img src="./screenshots/flushall.PNG" alt="flushall command" width="100%" height="70%"/>
